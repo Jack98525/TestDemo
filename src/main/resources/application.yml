@@ -1,0 +1,10 @@
+spring:
+  profiles:
+    active: dev
+
+app:
+  name: MyApp
+  version: 1.0.0
+  author:
+    name: John Doe
+    email: john.doe@example.com
